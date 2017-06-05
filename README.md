@@ -1,5 +1,5 @@
 # hotdog-or-not-hotdog
-## Implementation of Hot Dog or not app from Siicon Valley (CNN to identify if the given picture is a hot dog or not)
+Implementation of Hot Dog or not app from Silicon Valley (CNN to identify if the given picture is a hot dog or not)
 
 I used Google's Inception (2015) model. Inception is a deep convolutional neural network built for classifying real world images of thousand category. <br/>
 Retraining done by replacing last layer of Inception model. <br/>
